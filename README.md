@@ -116,10 +116,10 @@ apt-get install -y nodejs
 ```
 
 ```bash
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/official4hfc/botzz
+cd botzz
 npm i
-node index.js
+node .
 ```  
 
 ### **Untuk mendapatkan pairing code**  
